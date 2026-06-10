@@ -39,6 +39,32 @@ I attended 72 classes out of 90 and paid 30000 out of 50000. Give both attendanc
 
 User Query → LangChain Agent → Tool Selection → Tool Execution → Final Response
 
+## Demo Screenshots
+
+### Attendance Calculator
+
+![Attendance Tool](attendance-tool-demo.png)
+
+### Fee Balance Calculator
+
+![Fee Balance](fee-balance-calculator.png)
+
+### Library Fine Calculator
+
+![Library Fine](library-fine-calculator-ddemo.png)
+
+### Hostel Fee Calculator
+
+![Hostel Fee](hostel-fee-tool-demo.png)
+
+### Result Calculator
+
+![Result Tool](result-demo.png)
+
+### Multi Tool Query
+
+![Multi Tool](multi-tool-demo.png)
+
 ## Author
 
 K. Sai Kiran Reddy
